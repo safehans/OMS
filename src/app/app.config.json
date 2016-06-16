@@ -1,0 +1,13 @@
+{
+  "appname": "OMS",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "D722CD44-E088-480B-AB4B-21C61D03D86A",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
